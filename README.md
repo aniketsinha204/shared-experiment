@@ -2,45 +2,44 @@
 
 shared-experiment
 ├── project-a
-
-<!-- │   ├── components
-│   ├── i18n
-│   ├── utils
-│   ├── models
-│   ├── navigators
-│   ├── screens
-│   ├── services
-│   ├── theme
-│   ├── app.tsx -->
-
+│   ├── .next
+│   ├── node-modules
+│   ├── pages
+│   ├── public
+│   ├── styles
+│   ├── .eslintrc.json
+│   ├── .gitignore
+│   ├──package.json
+│   ├── README.md
+│   ├── tsconfig.json
+│   └── yarn.lock
 ├── project-b
-
-<!-- │   ├── views
-│   ├── index.ts
-│   ├── storybook-registry.ts
-│   ├── storybook.ts
-│   ├── toggle-storybook.tsx -->
-
+│   ├── .next
+│   ├── node-modules
+│   ├── pages
+│   ├── public
+│   ├── styles
+│   ├── .eslintrc.json
+│   ├── .gitignore
+│   ├──package.json
+│   ├── README.md
+│   ├── tsconfig.json
+│   └── yarn.lock
 ├── common
-
-<!-- │   ├── __snapshots__
-│   ├── storyshots.test.ts.snap
-│   ├── mock-i18n.ts
-│   ├── mock-reactotron.ts
-│   ├── setup.ts
-│   ├── storyshots.test.ts -->
-
 ├── README.md
 
 <!-- ├── android
-│   ├── app
-│   ├── build.gradle
-│   ├── gradle
-│   ├── gradle.properties
-│   ├── gradlew
-│   ├── gradlew.bat
-│   ├── keystores
-│   └── settings.gradle
+│   ├── .next
+│   ├── node-modules
+│   ├── pages
+│   ├── public
+│   ├── styles
+│   ├── .eslintrc.json
+│   ├── .gitignore
+│   ├──package.json
+│   ├── README.md
+│   ├── tsconfig.json
+│   └── yarn.lock
 ├── ignite
 │   ├── ignite.json
 │   └── plugins
